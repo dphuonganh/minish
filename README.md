@@ -34,7 +34,7 @@ Here's what you will do:
 
 Bash will be your shell of reference (for behaviours, error messages, ...). If you don't know how something works, **test it on bash**.
 
-![shell_session__1_.gif]()
+![shell_session__1_.gif](https://github.com/dphuonganh/minish/blob/master/shell_session__1_.gif)
 
 
 ## Built-ins to implement
